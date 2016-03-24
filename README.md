@@ -1,6 +1,8 @@
 
 RhinoCoin - Share
 
+Website: http://www.xn588.com/en/
+
 RhinoCoin is a pure PoS coin which generates coins through PoS blocks.  Except the first block where it generates the initial 100 million coins, no PoW mining will get any coins. The 1 billion coins will be distributed equally to 1000 individuals with 100,000 coin each, completely free.
 
 Equal distribution to the WHOLE share. Each person gets 100,000 coins.  Dev team gets total 1 million coin! It is the share coin! While the dev team will maintain and enhance the code and fix any issues, it is the community which will promote and market the coin.
@@ -22,5 +24,5 @@ Starting from Year-6: 1% annual interest for maintnance.
 Zero Premine.
 
 Ports:
-connection:	22701
-RPC:			22702
+connection:	23000
+RPC:			23001
